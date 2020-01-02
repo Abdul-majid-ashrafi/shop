@@ -1,0 +1,8 @@
+git remote set-url origin https://github.com/Abdul-majid-ashrafi/shop if any condition you run commond git init
+git pull to know how many changes in your repo
+
+
+for update your repo 
+git add .
+git commit -m "nnjnjn"
+git push -u origin master
