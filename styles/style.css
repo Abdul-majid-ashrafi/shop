@@ -1,0 +1,22 @@
+body, html{
+    background-color: antiquewhite;
+    margin: 0
+}
+
+ul{
+    text-align: center;
+    background-color: black;
+}
+a{
+    color: aqua
+}
+li{
+    display: inline;
+    padding: 10px
+}
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600
+
+}
